@@ -56,17 +56,17 @@ Run `npm install` then `npm run dev` to start application in development mode.
 - **Endpoint:** `/expenses`
 - **Method:** `DELETE` `AUTH`
 
-### Get Expenses
+### Get Expenses Categories
 
 - **Endpoint:** `/expense-caregories`
 - **Method:** `GET`
 
-### Create Expense
+### Create Expense Category
 
 - **Endpoint:** `/expense-caregories`
 - **Method:** `POST` `AUTH`
 
-### Delete Expense
+### Delete Expense Category
 
 - **Endpoint:** `/expense-caregories`
 - **Method:** `DELETE` `AUTH`
